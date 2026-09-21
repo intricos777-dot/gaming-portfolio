@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://intricos777-dot.github.io/gaming-portfolio/sitemap.xml
